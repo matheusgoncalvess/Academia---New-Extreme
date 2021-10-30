@@ -77,7 +77,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #e8e8e8;
+		background-color: #f2f7fa;
 		background-image: url("images/bg02.png");
 		display: -moz-flex;
 		display: -webkit-flex;
