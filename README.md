@@ -29,15 +29,4 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 --- 
 
 
-
-Desenvolvido com 💜 por Dener Andrade
-
-Desenvolvido com 💜 por Diego Faria
-
-Desenvolvido com 💜 por Jackson Dultra
-
-Desenvolvido com 💜 por Jefferson Barbosa
-
 Desenvolvido com 💜 por Matheus Gonçalves
-
-Desenvolvido com 💜 por Stephany Ferreira
